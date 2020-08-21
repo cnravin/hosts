@@ -1,4 +1,4 @@
-# 2020-08-21 00:30:00.244468
+# 2020-08-22 00:30:00.231161
 10.1.120.253	bjas1.digitalchina.com
 10.1.180.64	bjas10.digitalchina.com
 10.1.180.91	bjas11.digitalchina.com
