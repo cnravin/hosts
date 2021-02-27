@@ -1,4 +1,4 @@
-# 2021-02-27 00:30:00.270002
+# 2021-02-28 00:30:00.359078
 10.1.120.253	bjas1.digitalchina.com
 10.1.180.64	bjas10.digitalchina.com
 10.1.180.91	bjas11.digitalchina.com
@@ -12,7 +12,7 @@
 10.1.180.49	bjas8.digitalchina.com
 10.1.180.94	bjas9.digitalchina.com
 10.1.126.182	bjasoa1.digitalchina.com
-10.1.126.183	bjasoa2.digitalchina.com
+10.1.180.27	bjasoa2.digitalchina.com
 10.1.180.45	bjdcm.digitalchina.com
 10.1.180.181	bjms0.digitalchina.com
 10.1.180.69	bjms0c.digitalchina.com
