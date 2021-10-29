@@ -1,4 +1,4 @@
-# 2021-10-29 00:30:00.289756
+# 2021-10-30 00:30:00.565365
 10.1.120.253	bjas1.digitalchina.com
 10.1.180.64	bjas10.digitalchina.com
 10.1.180.91	bjas11.digitalchina.com
