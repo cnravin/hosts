@@ -1,4 +1,4 @@
-# 2022-03-21 00:30:00.229724
+# 2022-03-22 00:30:00.305502
 10.1.120.253	bjas1.digitalchina.com
 10.1.180.64	bjas10.digitalchina.com
 10.1.180.91	bjas11.digitalchina.com
@@ -12,7 +12,7 @@
 10.1.180.49	bjas8.digitalchina.com
 10.1.180.94	bjas9.digitalchina.com
 10.1.126.182	bjasoa1.digitalchina.com
-10.1.126.183	bjasoa2.digitalchina.com
+10.1.180.27	bjasoa2.digitalchina.com
 10.1.180.45	bjdcm.digitalchina.com
 10.1.180.181	bjms0.digitalchina.com
 10.1.180.69	bjms0c.digitalchina.com
@@ -83,7 +83,7 @@
 10.1.180.222	dcoa7.digitalchina.com
 10.1.126.220	dcoa8.digitalchina.com
 10.1.126.219	dcoa9.digitalchina.com
-10.0.4.11	dcone.digitalchina.com
+10.0.4.12	dcone.digitalchina.com
 10.0.4.11	dcone.portal.digitalchina.com
 10.0.4.11	dcone.dcgportal.digitalchina.com
 10.0.4.11	dcone.dchportal.digitalchina.com
