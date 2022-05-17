@@ -1,4 +1,4 @@
-# 2022-05-17 00:30:00.232487
+# 2022-05-18 00:30:00.233656
 10.1.120.253	bjas1.digitalchina.com
 10.1.180.64	bjas10.digitalchina.com
 10.1.180.91	bjas11.digitalchina.com
@@ -12,22 +12,22 @@
 10.1.180.49	bjas8.digitalchina.com
 10.1.180.94	bjas9.digitalchina.com
 10.1.126.182	bjasoa1.digitalchina.com
-10.1.126.183	bjasoa2.digitalchina.com
+10.1.180.27	bjasoa2.digitalchina.com
 10.1.180.45	bjdcm.digitalchina.com
 10.1.180.181	bjms0.digitalchina.com
-10.1.180.69	bjms0c.digitalchina.com
+10.1.126.92	bjms0c.digitalchina.com
 10.1.128.246	bjms1.digitalchina.com
 10.1.126.95	bjms10.digitalchina.com
 10.1.128.108	bjms10c.digitalchina.com
 10.1.180.202	bjms12.digitalchina.com
-10.1.180.93	bjms12c.digitalchina.com
+10.1.126.124	bjms12c.digitalchina.com
 10.0.17.27	bjms15.digitalchina.com
 10.0.17.24	bjms16.digitalchina.com
-10.1.128.106	bjms1c.digitalchina.com
+10.1.180.217	bjms1c.digitalchina.com
 10.1.180.200	bjms2.digitalchina.com
-10.1.180.77	bjms2c.digitalchina.com
+10.1.126.48	bjms2c.digitalchina.com
 10.1.180.63	bjms3.digitalchina.com
-10.1.180.57	bjms3c.digitalchina.com
+10.1.126.114	bjms3c.digitalchina.com
 10.1.180.128	bjms4.digitalchina.com
 10.1.180.61	bjms4c.digitalchina.com
 10.1.180.52	bjms5.digitalchina.com
@@ -35,7 +35,7 @@
 10.1.126.90	bjms6.digitalchina.com
 10.1.128.107	bjms6c.digitalchina.com
 10.1.128.247	bjms7.digitalchina.com
-10.1.128.64	bjms7c.digitalchina.com
+10.1.180.194	bjms7c.digitalchina.com
 10.1.126.91	bjms8.digitalchina.com
 10.1.128.74	bjms8c.digitalchina.com
 10.1.180.66	bjms9.digitalchina.com
