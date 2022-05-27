@@ -1,4 +1,4 @@
-# 2022-05-27 00:30:00.250955
+# 2022-05-28 00:30:00.233436
 10.1.120.253	bjas1.digitalchina.com
 10.1.180.64	bjas10.digitalchina.com
 10.1.180.91	bjas11.digitalchina.com
