@@ -1,4 +1,4 @@
-# 2022-07-15 00:30:00.313516
+# 2022-07-16 00:30:00.244690
 10.1.120.253	bjas1.digitalchina.com
 10.1.180.64	bjas10.digitalchina.com
 10.1.180.91	bjas11.digitalchina.com
@@ -147,6 +147,6 @@
 10.128.180.228	itsms7c.dcits.com
 10.128.180.30	itsms8.dcits.com
 10.1.120.53	itss.dcits.com
-10.0.4.118	itsarchive1.dcits.com
+10.1.126.253	itsarchive1.dcits.com
 10.1.126.248	itsarchive2.dcits.com
-10.0.4.121	itsarchive3.dcits.com
+10.1.126.152	itsarchive3.dcits.com
