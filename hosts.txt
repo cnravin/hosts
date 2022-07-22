@@ -1,4 +1,4 @@
-# 2022-07-22 00:30:00.269873
+# 2022-07-23 00:30:00.285113
 10.1.120.253	bjas1.digitalchina.com
 10.1.180.64	bjas10.digitalchina.com
 10.1.180.91	bjas11.digitalchina.com
@@ -12,7 +12,7 @@
 10.1.180.49	bjas8.digitalchina.com
 10.1.180.94	bjas9.digitalchina.com
 10.1.126.182	bjasoa1.digitalchina.com
-10.1.126.183	bjasoa2.digitalchina.com
+10.1.180.27	bjasoa2.digitalchina.com
 10.1.180.45	bjdcm.digitalchina.com
 10.1.180.181	bjms0.digitalchina.com
 10.1.126.92	bjms0c.digitalchina.com
@@ -42,8 +42,8 @@
 10.1.180.56	bjms9c.digitalchina.com
 10.1.126.180	dcarchive1.digitalchina.com
 10.1.126.182	dcarchive2.digitalchina.com
-10.0.4.116	dcarchive3.digitalchina.com
-10.0.4.120	dcarchive4.digitalchina.com
+10.1.126.210	dcarchive3.digitalchina.com
+10.1.126.200	dcarchive4.digitalchina.com
 10.1.126.252	dcarchive5.digitalchina.com
 10.0.4.121	dcarchive6.digitalchina.com
 10.1.120.241	dcdc.digitalchina.com
