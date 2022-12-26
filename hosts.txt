@@ -1,10 +1,10 @@
-# 2022-12-26 00:30:00.262862
+# 2022-12-27 00:30:00.292030
 10.1.120.253	bjas1.digitalchina.com
 10.1.180.64	bjas10.digitalchina.com
 10.1.180.91	bjas11.digitalchina.com
 10.1.180.118	bjas12.digitalchina.com
 10.1.128.248	bjas2.digitalchina.com
-10.1.180.27	bjas3.digitalchina.com
+10.1.180.94	bjas3.digitalchina.com
 10.1.180.214	bjas4.digitalchina.com
 10.1.180.27	bjas5.digitalchina.com
 10.1.180.30	bjas6.digitalchina.com
@@ -12,7 +12,7 @@
 10.1.180.49	bjas8.digitalchina.com
 10.1.180.94	bjas9.digitalchina.com
 10.1.126.182	bjasoa1.digitalchina.com
-10.1.180.27	bjasoa2.digitalchina.com
+10.1.126.183	bjasoa2.digitalchina.com
 10.1.180.45	bjdcm.digitalchina.com
 10.1.180.181	bjms0.digitalchina.com
 10.1.126.92	bjms0c.digitalchina.com
@@ -76,7 +76,7 @@
 10.0.2.44	dcoa11.digitalchina.com
 10.0.4.21	dcoa12.digitalchina.com
 10.1.180.147	dcoa2.digitalchina.com
-10.1.126.161	dcoa3.digitalchina.com
+10.1.126.160	dcoa3.digitalchina.com
 10.1.126.161	dcoa4.digitalchina.com
 10.1.120.69	dcoa5.digitalchina.com
 10.1.120.19	dcoa6.digitalchina.com
@@ -110,7 +110,7 @@
 10.128.180.228	itsms7c.digitalchina.com
 10.128.180.30	itsms8.digitalchina.com
 10.128.180.40	itsms8c.digitalchina.com
-10.128.180.10	itsoa1.digitalchina.com
+10.128.180.110	itsoa1.digitalchina.com
 10.128.180.110	itsoa2.digitalchina.com
 10.128.180.11	itsoa3.digitalchina.com
 10.128.180.111	itsoa4.digitalchina.com
